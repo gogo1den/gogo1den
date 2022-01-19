@@ -3,8 +3,8 @@
 <h3> ✨ Who is Goeun Park ? ✨</h3>
 <ul>
   <li> 💻 student of Duksung Women's University, Department of Computer Engineering.
-  <li> 📝 I’m currently interested in Android(Kotlin&Java) and Web development.
-  <li> 📌 The main languages are Java, Kotlin and Python.
+  <li> 📝 I’m currently interested in Android(Kotlin&Java).
+  <li> 📌 The main languages are Java, Kotlin.
 </ul>
 <br>
 
